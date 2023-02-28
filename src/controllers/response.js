@@ -78,13 +78,13 @@ module.exports={
             why:  'The music is my passion since kid, is something that is always on me and is my outside from the ordinary world, a space which fills me with new energy and new motivation'
         }
     ],
-    aboutme: {
+    aboutme: [{
         name: 'Moises Plata',
         age: 21,
         location: 'Bogota D.C Colombia',
         email: 'moises.platadev@gmail.com',
         title: 'Full Stack Developer'
-    },
+    }],
     aboutlove: [
         {
             what: 'Music',
@@ -142,7 +142,7 @@ module.exports={
             url: '.'
         }
     ],
-    urls: [
+    links: [
         {
             url: "https://www.linkedin.com/in/moises-platadev/",
             what: "LinkedIn"

@@ -20,7 +20,7 @@ router.get('/', (req, res) => {
 });
 
 router.get('/all', (req,res) => {
-    res.send(response)
+    res.send(array)
 })
 
 router.get('*', (req,res) => {

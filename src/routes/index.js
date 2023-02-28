@@ -5,6 +5,8 @@ const experience = require('./experience');
 const work = require('./work');
 const link = require('./links')
 
+const array = require('../controllers/arrays')
+
 const router = Router();
 
 router.use('/about', about);
@@ -15,6 +17,10 @@ router.use('/links', link);
 router.get('/', (req, res) => {
     res.status(200).send([]);
 });
+
+router.get('/all', (req,res) => {
+    res.send(array)
+})
 
 router.get('*', (req,res) => {
     res.send([{msg: "Please type an available route",
@@ -27,4 +33,5 @@ router.get('*', (req,res) => {
         "6": "/about/aspirations"
     }])
 })
+
 module.exports = router;

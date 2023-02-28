@@ -5,7 +5,8 @@ const experience = require('./experience');
 const work = require('./work');
 const link = require('./links')
 
-const array = require('../controllers/arrays')
+const array = require('../controllers/response');
+const response = require('../controllers/response');
 
 const router = Router();
 
@@ -19,7 +20,7 @@ router.get('/', (req, res) => {
 });
 
 router.get('/all', (req,res) => {
-    res.send(array)
+    res.send(response)
 })
 
 router.get('*', (req,res) => {

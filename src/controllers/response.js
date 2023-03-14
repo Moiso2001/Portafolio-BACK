@@ -121,7 +121,7 @@ module.exports={
             name: "HenryGadget",
             status: "finished",
             text: "HenryGadget E-Commerce for Mobile and Tech products.",
-            url: "https://pf-henrygadget.onrender.com/"
+            url: "https://pf-henrygadget-hbbo.onrender.com/"
         },
         {
             name: "MovieAPP",
@@ -139,7 +139,7 @@ module.exports={
             name: "Portafolio",
             status: 'finished',
             text: "A presentation about me, and also an interactive way to know information and my experience in this tech world",
-            url: '.'
+            url: 'https://portafolio-six-lovat.vercel.app/'
         }
     ],
     links: [

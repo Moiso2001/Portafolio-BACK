@@ -83,13 +83,13 @@ module.exports={
             why:  'The music is my passion since kid, is something that is always on me and is my outside from the ordinary world, a space which fills me with new energy and new motivation'
         }
     ],
-    me: {
+    me: [{
         name: 'Moises Plata',
         age: 22,
         location: 'Bogota D.C Colombia',
         email: 'moises.platadev@gmail.com',
         title: 'Full Stack Developer'
-    },
+    }],
     love: [
         {
             what: 'Music',
@@ -109,11 +109,6 @@ module.exports={
         }
     ],
     experience: [
-        {
-            where: 'Own projects',
-            since: '2022',
-            text: "My experience working with these frameworks is directly with different own projects, by now I'm looking for my first work experience IT related :)"
-        },
         {
             where: 'Espanglish',
             since: '01/2023',

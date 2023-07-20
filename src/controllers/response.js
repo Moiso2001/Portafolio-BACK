@@ -1,19 +1,14 @@
 module.exports={
-    home: [{msg: "Please type an available route",
-    "0": '/work',
-    "1": '/links',
-    "2": "/experience",
-    "3": "/about/me",
-    "4": "/about/love",
-    "5": "/about/abilities",
-    "6": "/about/aspirations"
-    }],
-    
-    aboutabilities: [
+    abilities: [
         {
             side: 'main',
             technology: 'JavaScript',
             since: '12/2021'
+        },
+        {
+            side: 'main',
+            technology: 'TypeScript',
+            since: '12/2022'
         },
         {
             side: 'BackEnd',
@@ -27,8 +22,18 @@ module.exports={
         },
         {
             side: 'BackEnd',
+            technology: 'NestJS',
+            since: '01/2023'
+        },
+        {
+            side: 'BackEnd',
             technology: 'Sequelize',
             since: '02/2022'
+        },
+        {
+            side: 'BackEnd',
+            technology: 'Mongoose',
+            since: '01/2023'
         },
         {
             side: 'FrontEnd',
@@ -51,17 +56,17 @@ module.exports={
             since: '02/2022'
         },
         {
+            side: 'DB',
+            technology: 'MongoDB',
+            since: '01/2023'
+        },
+        {
             side: 'Testing',
             technology: 'Jest',
             since: '04/2022'
         }
     ],
-    aboutaspirations: [
-        {
-            what: 'Get my first job :)',
-            how:  'Learning every day something new without exception, put myself on challenges to improve my abilities, and show to the others how can I be a fundamental piece in their team!',
-            why:  'This is a goal that I have from a few time ago, and now I feel totally prepare to achieve it'
-        },
+    aspirations: [
         {
             what: 'Provide new solutions to all people',
             how:  'Something special about knowing how to code, is that I see everything possible and the powerfull tool to bring to the people technology, which can make their lifes easier',
@@ -78,14 +83,14 @@ module.exports={
             why:  'The music is my passion since kid, is something that is always on me and is my outside from the ordinary world, a space which fills me with new energy and new motivation'
         }
     ],
-    aboutme: [{
+    me: {
         name: 'Moises Plata',
-        age: 21,
+        age: 22,
         location: 'Bogota D.C Colombia',
         email: 'moises.platadev@gmail.com',
         title: 'Full Stack Developer'
-    }],
-    aboutlove: [
+    },
+    love: [
         {
             what: 'Music',
             why: 'The music is my passion since kid, is something that is always on me and is my outside from the ordinary world, a space which fills me with new energy and new motivation'
@@ -108,6 +113,11 @@ module.exports={
             where: 'Own projects',
             since: '2022',
             text: "My experience working with these frameworks is directly with different own projects, by now I'm looking for my first work experience IT related :)"
+        },
+        {
+            where: 'Espanglish',
+            since: '01/2023',
+            text: "As a software developer, I designed Espanglish's user interface using Canva and developed the full-stack application with React, TypeScript, Node.js, and NestJS. Additionally, I performed regular maintenance tasks to ensure a smooth user experience."
         }
     ],
     work: [
@@ -121,13 +131,13 @@ module.exports={
             name: "HenryGadget",
             status: "finished",
             text: "HenryGadget E-Commerce for Mobile and Tech products.",
-            url: "https://pf-henrygadget-hbbo.onrender.com/"
+            url: "https://pf-henrygadget.onrender.com/"
         },
         {
-            name: "MovieAPP",
-            status: 'finished',
-            text: "One of my first apps created with React and Redux, implementing an external API",
-            url: "https://movie-app-zeta-six.vercel.app/"
+            name: "Espanglish",
+            status: 'Working',
+            text: "Working as FullStack Developer, working from back to front, also updating and monitoring the app",
+            url: "https://somosespanglish.com/"
         },
         {
             name: "BogoTRIP",
@@ -139,10 +149,10 @@ module.exports={
             name: "Portafolio",
             status: 'finished',
             text: "A presentation about me, and also an interactive way to know information and my experience in this tech world",
-            url: 'https://portafolio-six-lovat.vercel.app/'
+            url: '.'
         }
     ],
-    links: [
+    urls: [
         {
             url: "https://www.linkedin.com/in/moises-platadev/",
             what: "LinkedIn"

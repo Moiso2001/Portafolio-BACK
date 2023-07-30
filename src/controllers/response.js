@@ -146,35 +146,40 @@ module.exports={
     work: [
         {
             id: 1,
-            name: "PokeAPI",
-            status: 'finished',
-            text: " Pokedex, My Individual Project in SoyHenry as Full Stack Developer in Javascript. This project was made with the API PokeAPI and an own database with PostgreSQL. It has the purpose to be a Pokedex and to create your own pokemons :)) You can filter by different parameters or search by National ID, and Pokemon Names created by the comunity or original ones. ",
-            url: "https://poke-app-front-pied.vercel.app/home"
-        },
-        {
-            id: 2,
-            name: "HenryGadget",
-            status: "finished",
-            text: "HenryGadget E-Commerce for Mobile and Tech products.",
-            url: "https://pf-henrygadget.onrender.com/"
-        },
-        {
-            id: 3,
-            name: "Espanglish",
-            status: 'Working',
-            text: "Working as FullStack Developer, working from back to front, also updating and monitoring the app",
-            url: "https://somosespanglish.com/"
-        },
-        {
-            id: 4,
             name: "BogoTRIP",
+            img: 'https://smhttp-ssl-53207-colombia.nexcesscdn.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/o/bogota-city-tour-0.jpg',
             status: "being made",
             text: "A tourist application about Bogota city, this website/app will generate you plans to do on Bogota, this could include, Bar, Dancing, Restaurants, and everything that you can imagine",
             url: 'not available yet'
         },
         {
+            id: 2,
+            name: "PokeAPI",
+            img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/1200px-Pok%C3%A9_Ball_icon.svg.png",
+            status: 'finished',
+            text: " Pokedex, My Individual Project in SoyHenry as Full Stack Developer in Javascript. This project was made with the API PokeAPI and an own database with PostgreSQL. It has the purpose to be a Pokedex and to create your own pokemons :)) You can filter by different parameters or search by National ID, and Pokemon Names created by the comunity or original ones. ",
+            url: "https://poke-app-front-pied.vercel.app/home"
+        },
+        {
+            id: 3,
+            name: "HenryGadget",
+            img: 'https://i.ibb.co/Yh6SJDc/Screenshot-2023-07-30-180645.png',
+            status: "finished",
+            text: "HenryGadget E-Commerce for Mobile and Tech products.",
+            url: "https://pf-henrygadget-hbbo.onrender.com/"
+        },
+        {
+            id: 4,
+            name: "Espanglish",
+            img: "https://i.ibb.co/BwjLfq0/Screenshot-2023-07-30-180409.png",
+            status: 'Working',
+            text: "Working as FullStack Developer, working from back to front, also updating and monitoring the app",
+            url: "https://somosespanglish.com/"
+        },
+        {
             id: 5,
             name: "Portafolio",
+            img: 'https://i.ibb.co/3TxPgfR/Screenshot-2023-07-30-180550.png',
             status: 'finished',
             text: "A presentation about me, and also an interactive way to know information and my experience in this tech world",
             url: '.'

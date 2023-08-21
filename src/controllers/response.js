@@ -195,6 +195,16 @@ module.exports={
             id: 2,
             url: "https://github.com/Moiso2001",
             what: "GitHub"
+        },
+        {
+            id: 3,
+            url: "https://wa.me/573209260621",
+            what: "Whatsapp"
+        },
+        {   
+            id: 4,
+            url: "https://t.me/Moiso2001",
+            what: "Telegram"
         }
     ]
     

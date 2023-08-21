@@ -134,14 +134,14 @@ module.exports={
             id: 1,
             where: 'Espanglish',
             img: "https://i.ibb.co/BwjLfq0/Screenshot-2023-07-30-180409.png",
-            since: '01/2023',
+            since: '01/2023 as FullStack Developer',
             text: "As a software developer, I designed Espanglish's user interface using Canva and developed the full-stack application with React, TypeScript, Node.js, and NestJS. Additionally, I performed regular maintenance tasks to ensure a smooth user experience."
         },
         {
             id: 2,
             where: 'BogoTRIP',
             img: 'https://i.ibb.co/gJBGLc5/Screenshot-2023-07-30-181203.png',
-            since: '10/2022',
+            since: '10/2022 as FullStack Developer',
             text: " Led the architecture, design, and development of a tourism application. Designed and rolled out a database of plans, spots, and sites to visit. Engineered an algorithm to g"
         }
     ],

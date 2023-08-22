@@ -142,7 +142,7 @@ module.exports={
             where: 'BogoTRIP',
             img: 'https://i.ibb.co/gJBGLc5/Screenshot-2023-07-30-181203.png',
             since: '10/2022 as FullStack Developer',
-            text: " Led the architecture, design, and development of a tourism application. Designed and rolled out a database of plans, spots, and sites to visit. Engineered an algorithm to g"
+            text: " Led the architecture, design, and development of a tourism application. Designed and rolled out a database of plans, spots, and sites to visit. Engineered an algorithm to generate plans to do in Bogota."
         }
     ],
     work: [

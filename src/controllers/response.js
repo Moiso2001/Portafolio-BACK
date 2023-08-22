@@ -110,21 +110,25 @@ module.exports={
     love: [
         {
             id: 1,
+            img: 'https://www.adorama.com/alc/wp-content/uploads/2018/08/shutterstock_442098151-825x465.jpg',
             what: 'Music',
             why: 'The music is my passion since kid, is something that is always on me and is my outside from the ordinary world, a space which fills me with new energy and new motivation'
         },
         {
             id: 2,
+            img: 'https://i.ibb.co/HdJsV9F/Whats-App-Image-2023-08-22-at-16-30-06.jpg',
             what: 'Shaio',
             why: 'Shaio is my doggy, my son, my life too, also a big partnership in adventures and in this stage of life <3' 
         },
         {
             id: 3,
+            img: 'https://media.prospectmagazine.co.uk/prod/images/gm_preview/106aa8dea19d-663px-apictureisworthathousandwords-21.jpg',
             what: 'Academic',
             why: 'Academic being understand as the knowledge about philosophy, science, physic, matematics, any area of knowledge is something that I love to learn al'
         },
         {
             id: 4,
+            img: 'https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141353.jpg?w=2000',
             what: 'Gastronomy',
             why:  "Since kid I'm used to prepare food for me and for my family and with the time I started to be really good at it"
         }

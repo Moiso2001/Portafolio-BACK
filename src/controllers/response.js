@@ -3,78 +3,77 @@ module.exports={
         {
             id: 1,
             side: 'main',
+            icon: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
             technology: 'JavaScript',
             since: '12/2021'
         },
         {
             id: 2,
             side: 'main',
+            icon: 'https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png',
             technology: 'TypeScript',
             since: '12/2022'
         },
         {
             id: 3,
             side: 'BackEnd',
+            icon: 'https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png',
             technology: 'NodeJS',
             since: '02/2022'
         },
         {
             id: 4,
             side: 'BackEnd',
+            icon: 'https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png',
             technology: 'ExpressJS',
             since: '02/2022'
         },
         {
             id: 5,
             side: 'BackEnd',
+            icon: 'https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png',
             technology: 'NestJS',
             since: '01/2023'
         },
         {
             id: 6,
             side: 'BackEnd',
+            icon: 'https://cdn.iconscout.com/icon/free/png-256/free-sequelize-2-1175003.png',
             technology: 'Sequelize',
             since: '02/2022'
         },
         {
-            id: 7,
-            side: 'BackEnd',
-            technology: 'Mongoose',
-            since: '01/2023'
-        },
-        {
             id: 8,
             side: 'FrontEnd',
+            icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png',
             technology: 'React',
             since: '01/2022',
         },
         {
             id: 9,
             side: 'FrontEnd',
+            icon: 'https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png',
             technology: 'Redux',
-            since: '01/2022',
-        },
-        {
-            id: 10,
-            side: 'FrontEnd',
-            technology: 'ReactRouterDom',
             since: '01/2022',
         },
         {
             id: 11,
             side: 'DB',
+            icon: 'https://cdn-icons-png.flaticon.com/512/5968/5968342.png',
             technology: 'PostgreSQL',
             since: '02/2022'
         },
         {
             id: 12,
             side: 'DB',
+            icon: 'https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png',
             technology: 'MongoDB',
             since: '01/2023'
         },
         {
             id: 13,
             side: 'Testing',
+            icon: 'https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-512.png',
             technology: 'Jest',
             since: '04/2022'
         }

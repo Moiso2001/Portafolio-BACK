@@ -52,7 +52,7 @@ module.exports={
         {
             id: 9,
             side: 'FrontEnd',
-            icon: 'https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg',
+            icon: 'https://i.ibb.co/xznRtLk/5848309bcef1014c0b5e4a9a-3.png',
             technology: 'Redux',
             since: '01/2022',
         },

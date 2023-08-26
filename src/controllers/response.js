@@ -52,7 +52,7 @@ module.exports={
         {
             id: 9,
             side: 'FrontEnd',
-            icon: 'https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png',
+            icon: 'https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg',
             technology: 'Redux',
             since: '01/2022',
         },

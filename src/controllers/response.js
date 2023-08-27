@@ -81,18 +81,21 @@ module.exports={
     aspirations: [
         {
             id: 1,
+            img: 'https://media.istockphoto.com/id/1344939844/photo/hand-holding-drawing-virtual-lightbulb-with-brain-on-bokeh-background-for-creative-and-smart.jpg?s=612x612&w=0&k=20&c=2GLUy6eqCSr0NFRO8CHm8_PUMy9Qc8ryqcsRoe0DEYM=',
             what: 'Provide new solutions to all people',
             how:  'Something special about knowing how to code, is that I see everything possible and the powerfull tool to bring to the people technology, which can make their lifes easier',
             why:  "Countries like mine suffers the lack of education, medicine, mental health and I want to almost leave my sand grain, it's also related about my life purpose"
         },
         {
             id: 2,
-            what: 'Learn new technologies (IA) (MachineLearning) (CyberSecurity)',
+            img: 'https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg',
+            what: 'Learn new technologies (AI) (MachineLearning) (CyberSecurity)',
             how:  'Each day giving some space and some time to learn, through courses, videos, books, etc... As I learned Web Development I know that I can learn anything else',
             why:  'I found here a passion for the technology, and is more about my really curious mind that needs to know how the future will be'
         },
         {
             id: 3,  
+            img: 'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D&w=1000&q=80',
             what: 'Music',
             how:  'I want to create an album and discover new sounds new chords new styles, this is something that Im already working on, but as everything will take time :)',
             why:  'The music is my passion since kid, is something that is always on me and is my outside from the ordinary world, a space which fills me with new energy and new motivation'
